@@ -1,0 +1,26 @@
+{
+  "name": "nft-smart-contract",
+  "version": "1.0.0",
+  "description": "solidity smart contract for nft, following the ERC721 standard using the OpenZeppelin version 4 libraries, implemented using the truffle cli",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwth-acis/nft-smart-contract.git"
+  },
+  "author": "sven kuffer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rwth-acis/nft-smart-contract/issues"
+  },
+  "homepage": "https://github.com/rwth-acis/nft-smart-contract#readme"
+}
